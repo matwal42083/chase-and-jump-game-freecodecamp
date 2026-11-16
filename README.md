@@ -1,3 +1,5 @@
+![freeCodeCamp logo](https://raw.githubusercontent.com/freeCodeCamp/assets/master/assets/logos/Free%20Code%20Camp%20logo.svg)
+
 # Chase and Jump Game
 
 A fun, browser-based platform game built as part of the freeCodeCamp curriculum. Guide the player across platforms, jump between obstacles, and reach all three checkpoints to finish.
@@ -28,3 +30,7 @@ The game uses the HTML canvas to draw the player, platforms, and checkpoints. It
 - `index.html` — game page and start/completion screens
 - `styles.css` — layout and styling
 - `script.js` — game logic and animation
+
+## Attribution
+
+The logo is from the [freeCodeCamp assets repository](https://github.com/freeCodeCamp/assets/tree/master/assets/logos).
